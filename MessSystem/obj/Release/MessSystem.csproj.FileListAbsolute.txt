@@ -1,0 +1,7 @@
+C:\Users\dell\Documents\Github Projects\New Projects\MessSystem\MessSystem\obj\Release\MessSystem.csproj.AssemblyReference.cache
+C:\Users\dell\Documents\Github Projects\New Projects\MessSystem\MessSystem\obj\Release\MessSystem.csproj.SuggestedBindingRedirects.cache
+C:\Users\dell\Documents\Github Projects\New Projects\MessSystem\MessSystem\obj\Release\MessSystem.Loginform.resources
+C:\Users\dell\Documents\Github Projects\New Projects\MessSystem\MessSystem\obj\Release\MessSystem.Properties.Resources.resources
+C:\Users\dell\Documents\Github Projects\New Projects\MessSystem\MessSystem\obj\Release\MessSystem.Registration.resources
+C:\Users\dell\Documents\Github Projects\New Projects\MessSystem\MessSystem\obj\Release\MessSystem.csproj.GenerateResource.cache
+C:\Users\dell\Documents\Github Projects\New Projects\MessSystem\MessSystem\obj\Release\MessSystem.csproj.CoreCompileInputs.cache

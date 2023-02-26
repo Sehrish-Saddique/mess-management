@@ -1,0 +1,17 @@
+C:\Users\dell\Documents\Github Projects\New Projects\MessSystem\MessSystem\obj\Debug\MessSystem.csproj.AssemblyReference.cache
+C:\Users\dell\Documents\Github Projects\New Projects\MessSystem\MessSystem\obj\Debug\MessSystem.csproj.SuggestedBindingRedirects.cache
+C:\Users\dell\Documents\Github Projects\New Projects\MessSystem\MessSystem\obj\Debug\MessSystem.Loginform.resources
+C:\Users\dell\Documents\Github Projects\New Projects\MessSystem\MessSystem\obj\Debug\MessSystem.Properties.Resources.resources
+C:\Users\dell\Documents\Github Projects\New Projects\MessSystem\MessSystem\obj\Debug\MessSystem.Registration.resources
+C:\Users\dell\Documents\Github Projects\New Projects\MessSystem\MessSystem\obj\Debug\MessSystem.csproj.GenerateResource.cache
+C:\Users\dell\Documents\Github Projects\New Projects\MessSystem\MessSystem\obj\Debug\MessSystem.csproj.CoreCompileInputs.cache
+C:\Users\dell\Documents\Github Projects\New Projects\MessSystem\MessSystem\bin\Debug\MessSystem.exe.config
+C:\Users\dell\Documents\Github Projects\New Projects\MessSystem\MessSystem\bin\Debug\MessSystem.exe
+C:\Users\dell\Documents\Github Projects\New Projects\MessSystem\MessSystem\bin\Debug\MessSystem.pdb
+C:\Users\dell\Documents\Github Projects\New Projects\MessSystem\MessSystem\bin\Debug\EntityFramework.dll
+C:\Users\dell\Documents\Github Projects\New Projects\MessSystem\MessSystem\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\dell\Documents\Github Projects\New Projects\MessSystem\MessSystem\bin\Debug\EntityFramework.xml
+C:\Users\dell\Documents\Github Projects\New Projects\MessSystem\MessSystem\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\dell\Documents\Github Projects\New Projects\MessSystem\MessSystem\obj\Debug\MessSystem.csproj.CopyComplete
+C:\Users\dell\Documents\Github Projects\New Projects\MessSystem\MessSystem\obj\Debug\MessSystem.exe
+C:\Users\dell\Documents\Github Projects\New Projects\MessSystem\MessSystem\obj\Debug\MessSystem.pdb
